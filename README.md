@@ -1,7 +1,7 @@
 Spring Boot / StatsD
 --------------------
 
-Start Docker Containers
+Start Docker Containers (StatsD with a graphite backend + webui)
 ```shell
 $ docker-compose up
 ```
